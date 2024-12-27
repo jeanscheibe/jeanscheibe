@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeanscheibe
-- 👀 I’m interested in learn coding languages to work in Software Development
-- 🌱 I’m currently learning Javascript, CSS, HTML, ReactJS and Software Engineering
-- 💞️ I’m looking to collaborate on projects for begginers and any oportunity to learn.
+- 👀 I’m interested Data Science and Math
+- 🌱 I’m currently learning linear regressions and python for Data Science
 - 📫 How to reach me:
 
 https://www.linkedin.com/in/jean-scheibe-228b571a7/
