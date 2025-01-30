@@ -8,7 +8,7 @@
 
 <!-- Link dos emojis: https://gist.github.com/rxaviers/7360908 -->
 
-Olá, me chamo Jean Scheibe, sou formando em Engenharia de Software e estudante de ciência de dados. E claro, músico metido a sabichão. :musical_note:
+Olá, me chamo Jean Scheibe, sou formando em Engenharia de Software e estudante de ciência de dados e músico metido, que foi meu trabalho durante 15 anos. :musical_note:
 
 [Acesse o meu LinkedIn](https://www.linkedin.com/in/jean-scheibe-228b571a7/)
 
